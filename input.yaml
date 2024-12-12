@@ -1,0 +1,32 @@
+submodules:
+  Cards: "cards.html"
+  Knitting: "knitting.html"
+  Preparatory: "preparatory.html"
+  Spinning 1: "spinning1.html"
+  Spinning 2: "spinning2.html"
+  Winding: "winding.html"
+
+client_name: "Ambertex Universal Export"
+
+# submodules:
+#   Cards:
+#     - "cards.html"
+#     - "cards_alternate.html"
+#   Knitting:
+#     - "knitting.html"
+#   Preparatory:
+#     - "preparatory.html"
+#     - "preparatory_overview.html"
+#   Spinning 1:
+#     - "spinning_abc.html"
+#   Spinning 2:
+#     - "spinning_efg.html"
+#     - "spinning_alt.html"
+#   Winding:
+#     - "winding.html"
+#   Spinning1 Unit2:
+#     - "spinning1_unit2.html"
+#   Spinning2 Unit2:
+#     - "spinning2_unit2.html"
+#   Winding Unit2:
+#     - "winding_unit2.html"
